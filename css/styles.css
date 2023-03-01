@@ -288,6 +288,12 @@ select:-webkit-autofill:focus {
 .index-jobs__card-filter-clr-btn:hover {
   border-bottom: 2px solid #5ca5a5;
 }
+.index-jobs__page-link {
+  display: inline-block;
+  text-decoration: none;
+  color: #5ca5a5;
+  text-align: end;
+}
 @media only screen and (-webkit-min-device-pixel-ratio: 2),
   only screen and (min--moz-device-pixel-ratio: 2),
   only screen and (-o-min-device-pixel-ratio: 2/1),
